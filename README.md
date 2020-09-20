@@ -1,2 +1,2 @@
 # git-test-project
-Testing VCS
+Testing VCS in terminal
